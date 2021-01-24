@@ -1,10 +1,14 @@
-# Data Science Survey: Project Overview 
-
+# Data Science Survey
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
 **Dataset:** https://www.kaggle.com/c/kaggle-survey-2020/overview
+
+## Project Purpose
+* To find out about data analyst job
+* What programming languange that most of data analyst and data scientiest use?
+
 
 ## Data Cleaning
 1. Handle missing value
@@ -20,6 +24,10 @@ I looked at the distributions of the data and the value counts for the various c
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+
+
+## Contact
+Leonie M. Windari - @leoniemw_ds - leoniemwindari98@gmail.com
 
 
 
