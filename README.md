@@ -30,12 +30,12 @@
     1. I make a new dataset with a filter where the role is only Data Analyst or Data Scientist
     2. I set the index with a new set of ordered index (because after filtering it, the number of index will be messy and not ordered)
 * After I've done a couple of analysis, I found out that what you have to do is almost the same (there is a difference when transforming data for single and multiple choice questions), so I make some function that used a lot in this analysis :
-    a. Function to combining answer optinon and the number of respondent for single option
-    b. Function to combining answer optinon and the number of respondent for multiple option
-    c. Function to sort dictionary based on their keys (this is to sort the bar label based on what you desired)
-    d. Re-arrange list of values in dictionary based on the desired arrangement (I sorted the data based on Data Analyst so I have to re-arrange the order for Data 
+    1. Function to combining answer optinon and the number of respondent for single option
+    2. Function to combining answer optinon and the number of respondent for multiple option
+    3. Function to sort dictionary based on their keys (this is to sort the bar label based on what you desired)
+    4. Re-arrange list of values in dictionary based on the desired arrangement (I sorted the data based on Data Analyst so I have to re-arrange the order for Data 
        Scientist so I use this function to match it up)
-    e. Side by side bar chart using matplotlib (I use this to compare between data analyst and data scientist)
+    5. Side by side bar chart using matplotlib (I use this to compare between data analyst and data scientist)
 
 ## EDA
 (enter the graph here) (still hasn't edited yet)
