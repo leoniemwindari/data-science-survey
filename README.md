@@ -18,23 +18,24 @@
 
 ## Data Cleaning
 * The detailed questions were on the first row of the dataset, so what I did was :
-1. I seperate the questions detail from the dataset and combine it into a list with the columns name
-2. Remove the first row from the dataset
+     1. I seperate the questions detail from the dataset and combine it into a list with the columns name
+     2. Remove the first row from the dataset
 * Note : There are a lot of missing value but it's probably because of the multiple option that's been split into multiple columns and since the number of null is not greater than the other option, I simply did nothing to it. But I remove it when I did the analysis
 
 ## Data Transformation
 * The detailed questions were on the first row of the dataset, so what I did was :
-1. I seperate the questions detail from the dataset and combine it into a list with the columns name
-2. Remove the first row from the dataset
+    1. I seperate the questions detail from the dataset and combine it into a list with the columns name
+    2. Remove the first row from the dataset
 * The main focus for this project is the role of Data Analyst and Data Scientist, so what I did was:
-1. I make a new dataset with a filter where the role is only Data Analyst or Data Scientist
-2. I set the index with a new set of ordered index (because after filtering it, the number of index will be messy and not ordered)
+    1. I make a new dataset with a filter where the role is only Data Analyst or Data Scientist
+    2. I set the index with a new set of ordered index (because after filtering it, the number of index will be messy and not ordered)
 * After I've done a couple of analysis, I found out that what you have to do is almost the same (there is a difference when transforming data for single and multiple choice questions), so I make some function that used a lot in this analysis :
-a. Function to combining answer optinon and the number of respondent for single option
-b. Function to combining answer optinon and the number of respondent for multiple option
-c. Function to sort dictionary based on their keys (this is to sort the bar label based on what you desired)
-d. Re-arrange list of values in dictionary based on the desired arrangement (I sorted the data based on Data Analyst so I have to re-arrange the order for Data Scientist so I use this function to match it up)
-e. Side by side bar chart using matplotlib (I use this to compare between data analyst and data scientist)
+    a. Function to combining answer optinon and the number of respondent for single option
+    b. Function to combining answer optinon and the number of respondent for multiple option
+    c. Function to sort dictionary based on their keys (this is to sort the bar label based on what you desired)
+    d. Re-arrange list of values in dictionary based on the desired arrangement (I sorted the data based on Data Analyst so I have to re-arrange the order for Data 
+       Scientist so I use this function to match it up)
+    e. Side by side bar chart using matplotlib (I use this to compare between data analyst and data scientist)
 
 ## EDA
 (enter the graph here) (still hasn't edited yet)
