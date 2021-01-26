@@ -19,13 +19,7 @@
    * What cloud computing platforms do they use on a regular basis?
    * What big data products (relational databases, data warehouses, data lakes, or similar) do they use on a regular basis?
    * What business intelligence tools do they use on a regular basis? and used most often?
-
-#technical
-def Which of the following cloud computing platforms do you use on a regular basis? (Q26-A)
-def Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Q29-A)
-def Which of the following business intelligence tools do you use on a regular basis? (Q31)
-def Which of the following business intelligence tools do you use most often? (Q32) lanjutan Q31
-
+   
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, matplotlib
