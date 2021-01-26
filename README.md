@@ -6,6 +6,25 @@
    * What is the average age of data analyst vs data scientist?
    * What IDEs they usually used on a regular basis?
    * What data visualization libraries or tools they use on a regular basis?
+   * Does data analyst have to know machine learning? If yes, which machine learning algorithm they use the most?
+   * Which machine learning frameworks do they used on a regular basis?
+   * What is the most important activities in their role at work?
+   * How much do they make?(Comparison and distribution of the salary)
+   * What are their favorite media sources that report on data science topics?
+   * Where do they usually deploy their data analysis or machine learning applications?
+   * Which platform to they use to completed data science courses?
+   * Do you have to have a higher education?
+   * Gender differencies in Data Analyst and Data Scientist Role
+   * Salary based on Gender and Education
+   * What cloud computing platforms do they use on a regular basis?
+   * What big data products (relational databases, data warehouses, data lakes, or similar) do they use on a regular basis?
+   * What business intelligence tools do they use on a regular basis? and used most often?
+
+#technical
+def Which of the following cloud computing platforms do you use on a regular basis? (Q26-A)
+def Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Q29-A)
+def Which of the following business intelligence tools do you use on a regular basis? (Q31)
+def Which of the following business intelligence tools do you use most often? (Q32) lanjutan Q31
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
@@ -21,6 +40,8 @@
      1. I seperate the questions detail from the dataset and combine it into a list with the columns name
      2. Remove the first row from the dataset
 * Note : There are a lot of missing value but it's probably because of the multiple option that's been split into multiple columns and since the number of null is not greater than the other option, I simply did nothing to it. But I remove it when I did the analysis
+* The salary column is in a range value and in inconsistent format so I change it into the average of the range value
+* Sort the x ticks based on the number of years(which have a range value and inconsistent format)
 
 ## Data Transformation
 * The detailed questions were on the first row of the dataset, so what I did was :
@@ -36,6 +57,7 @@
     4. Re-arrange list of values in dictionary based on the desired arrangement (I sorted the data based on Data Analyst so I have to re-arrange the order for Data 
        Scientist so I use this function to match it up)
     5. Side by side bar chart using matplotlib (I use this to compare between data analyst and data scientist)
+
 
 ## EDA
 (enter the graph here) (still hasn't edited yet)
