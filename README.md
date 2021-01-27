@@ -54,16 +54,18 @@
 
 
 ## EDA
-(enter the graph here) (still hasn't edited yet)
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/leoniemwindari/data-science-survey/blob/main/index1.png)
+![alt text](https://github.com/leoniemwindari/data-science-survey/blob/main/education%20based%20on%20role.png)
+![alt text](https://github.com/leoniemwindari/data-science-survey/blob/main/platform%20courses%20usesd%20to%20learn.png)
+![alt text](https://github.com/leoniemwindari/data-science-survey/blob/main/programming%20language.png)
+![alt text](https://github.com/leoniemwindari/data-science-survey/blob/main/ml%20algorithm%20used.png)
 
 
 ## Contact
 Leonie M. Windari - @leoniemw_ds - leoniemwindari98@gmail.com
+Website - 
 
 
 
