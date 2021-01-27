@@ -3,24 +3,24 @@ Data science related job is hot in the industry now. A lot of industry realizing
    
 ## Questions :
  #General :
-    *How many percentage is the data analyst and scientist from the respondent?
-    *Am I too old to be a Data Analyst or Data Scientist?
-    *Gender differencies based on Role
-    *Do you have to have higher education?
+    * How many percentage is the data analyst and scientist from the respondent?
+    * Am I too old to be a Data Analyst or Data Scientist?
+    * Gender differencies based on Role
+    * Do you have to have higher education?
   #Techincal :
-    *On which platforms should I begin on data science courses?
-    *Do I have to know how to code?
-    *What programming language should I learn?
-    *Do Data Analyst have to know machine learning?
-    *What machine learning algorithm used a lot?
-    *What Machine Learning framework usually used?
-    *Which of the following integrated development environments (IDEs) do they use on a regular basis?
-    *What data visualization libraries or tools do they use on a regular basis?
-    *Activities that make up an important part of their role at work (Data Analyst vs Data Scientist)
-    *what are their favorite media sources that report on data science topics?
-    *Where do you publicly share or deploy your data analysis or machine learning applications?
-    *What  big data products (relational databases, data warehouses, data lakes, or similar) do they use on a regular basis?
-    *What business intelligence tools do you use on a regular basis?
+    * On which platforms should I begin on data science courses?
+    * Do I have to know how to code?
+    * What programming language should I learn?
+    * Do Data Analyst have to know machine learning?
+    * What machine learning algorithm used a lot?
+    * What Machine Learning framework usually used?
+    * Which of the following integrated development environments (IDEs) do they use on a regular basis?
+    * What data visualization libraries or tools do they use on a regular basis?
+    * Activities that make up an important part of their role at work (Data Analyst vs Data Scientist)
+    * What are their favorite media sources that report on data science topics?
+    * Where do you publicly share or deploy your data analysis or machine learning applications?
+    * What  big data products (relational databases, data warehouses, data lakes, or similar) do they use on a regular basis?
+    * What business intelligence tools do you use on a regular basis?
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
