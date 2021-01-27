@@ -2,12 +2,13 @@
 Data science related job is hot in the industry now. A lot of industry realizing the importance of data for their business.It is expected that the job related with data science will continue to increase each year.If you are interested in data science, whether you're a student or thinking of switching your career. You must've had this kind of questions popping in your head. Trust me, I've been there as this is also the questions I ask myself when I started my Data Science Journey.
    
 ## Questions :
- #General :
+ **General** :
     * How many percentage is the data analyst and scientist from the respondent?
     * Am I too old to be a Data Analyst or Data Scientist?
     * Gender differencies based on Role
     * Do you have to have higher education?
-  #Techincal :
+    
+  **Technical** :
     * On which platforms should I begin on data science courses?
     * Do I have to know how to code?
     * What programming language should I learn?
