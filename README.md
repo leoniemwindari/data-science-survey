@@ -1,25 +1,27 @@
 # Data Science Survey : Project Overview
- The main focus of the project is to compare Data Analyst and Data Scientist role, like :
-   * How many percentage of the respondent is a Data Analyst or Data Scientist?
-   * Does data analyst have to know how to code?
-   * What programming language do data analyst vs data scientist use more? and what language they recommended?
-   * What is the average age of data analyst vs data scientist?
-   * What IDEs they usually used on a regular basis?
-   * What data visualization libraries or tools they use on a regular basis?
-   * Does data analyst have to know machine learning? If yes, which machine learning algorithm they use the most?
-   * Which machine learning frameworks do they used on a regular basis?
-   * What is the most important activities in their role at work?
-   * How much do they make?(Comparison and distribution of the salary)
-   * What are their favorite media sources that report on data science topics?
-   * Where do they usually deploy their data analysis or machine learning applications?
-   * Which platform to they use to completed data science courses?
-   * Do you have to have a higher education?
-   * Gender differencies in Data Analyst and Data Scientist Role
-   * Salary based on Gender and Education
-   * What cloud computing platforms do they use on a regular basis?
-   * What big data products (relational databases, data warehouses, data lakes, or similar) do they use on a regular basis?
-   * What business intelligence tools do they use on a regular basis? and used most often?
+Data science related job is hot in the industry now. A lot of industry realizing the importance of data for their business.It is expected that the job related with data science will continue to increase each year.If you are interested in data science, whether you're a student or thinking of switching your career. You must've had this kind of questions popping in your head. Trust me, I've been there as this is also the questions I ask myself when I started my Data Science Journey.
    
+## Questions :
+ #General :
+    *How many percentage is the data analyst and scientist from the respondent?
+    *Am I too old to be a Data Analyst or Data Scientist?
+    *Gender differencies based on Role
+    *Do you have to have higher education?
+  #Techincal :
+    *On which platforms should I begin on data science courses?
+    *Do I have to know how to code?
+    *What programming language should I learn?
+    *Do Data Analyst have to know machine learning?
+    *What machine learning algorithm used a lot?
+    *What Machine Learning framework usually used?
+    *Which of the following integrated development environments (IDEs) do they use on a regular basis?
+    *What data visualization libraries or tools do they use on a regular basis?
+    *Activities that make up an important part of their role at work (Data Analyst vs Data Scientist)
+    *what are their favorite media sources that report on data science topics?
+    *Where do you publicly share or deploy your data analysis or machine learning applications?
+    *What  big data products (relational databases, data warehouses, data lakes, or similar) do they use on a regular basis?
+    *What business intelligence tools do you use on a regular basis?
+
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, matplotlib
