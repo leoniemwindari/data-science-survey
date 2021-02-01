@@ -65,7 +65,7 @@ I looked at the distributions of the data and the value counts for the various c
 
 ## Contact
 Leonie M. Windari - @leoniemw_ds - leoniemwindari98@gmail.com
-Website - 
+**Website** - https://leoniemwindari.wordpress.com/2021/01/28/2020-kaggle-machine-learning-data-science-survey-analysis-faq-from-a-data-science-noob/
 
 
 
